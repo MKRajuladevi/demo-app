@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 11
+Implementation-Title: demo-app
+Implementation-Version: 0.0.1
+Main-Class: com.rkmktb.demoapp.DemoAppApplication
+Created-By: Maven Integration for Eclipse
+
